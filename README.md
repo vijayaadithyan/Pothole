@@ -9,7 +9,7 @@ as to avoid conflicts with other projects.
 1. Clone the repository
 
     ```bash
-        $ git clone https://github.com/sanjay-thiyagarajan/PottyRoad.git
+        $ git clone https://github.com/vijayaadithyan/Pothole.git
         $ cd PottyRoad
     ```  
 2. Create a python 3 virtualenv, activate the environment and Install the project dependencies.   
@@ -37,15 +37,6 @@ You have now successfully set up the project on your environment.
 2) Python
 3) OpenCV
 4) Tkinter  
-
-## Usage  
-a) Command line mode:  
-```
-  python3 classifier.py --inputvideo="path/to/video.mp4"
-```
-b) Simple GUI:  
-```
-  python3 GUI.py
 ```  
 
 ## Screenshots  
